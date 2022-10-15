@@ -39,7 +39,7 @@ the ability to write clean & efficient code</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
  <h3>📊 Some Stats</h3>
-  <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Nishant singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a>
+  <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Janhavi singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a>
   <br/>
   <div align="center">
   <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>

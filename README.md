@@ -17,7 +17,7 @@ the ability to write clean & efficient code</h4>
 
 - 💬Have a look at my [portfolio](https://januprabhu.github.io/).
 
-- 📫 How to reach me **januprabhu26@gmail.com@gmail.com**
+- 📫 How to reach me **januprabhu26@gmail.com**
 
 - ⚡ Fun fact **I am an artist too..**
 

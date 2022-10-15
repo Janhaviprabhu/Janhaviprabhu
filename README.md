@@ -1,5 +1,5 @@
 <div align="left"><h1> Hello :wave: , Fellow &lt; Developers /&gt; ,  I'm  Janhavi Prabhu </h1>
-<h4>I am Full Stack Developer with
+<h4>A Full Stack Developer with
 the ability to write clean & efficient code</h4>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janhaviprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>

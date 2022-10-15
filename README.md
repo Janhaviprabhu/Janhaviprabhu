@@ -6,7 +6,7 @@ the ability to write clean & efficient code</h4>
 <div>
 <p align="left"> <a href="https://twitter.com/unnati_twts><img src="https://img.shields.io/twitter/follow/unnati_twts?logo=twitter&style=for-the-badge" alt="kajukatli123" /></a> </p>
 
-<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif">
 <h3>About me</h3>
 
 - 🔭 I’m  working on **Developing new Skills**
@@ -45,7 +45,7 @@ the ability to write clean & efficient code</h4>
   <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
 <p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janhaviprabhu&" alt="janhavi" /></p>
   <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Janhaviprabhu&show_icons=true&locale=en" alt="janhavi" /></p></div>
-  <div align="center">
+<div align="center">
                    
   <h2>Here's a random developer joke </h2>
                    
@@ -55,4 +55,3 @@ the ability to write clean & efficient code</h4>
 <p align="center">
   <code>Refresh the page for a new joke</code>
 </p>
-

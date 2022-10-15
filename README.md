@@ -15,7 +15,8 @@ the ability to write clean & efficient code</h4>
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬Have a look at my [portfolio](https://januprabhu.github.io/).
+- 💬Have a look at my [portfolio](
+https://janhaviprabhu.github.io/).
 
 - 📫 How to reach me **januprabhu26@gmail.com**
 

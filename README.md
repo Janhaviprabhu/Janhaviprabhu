@@ -39,7 +39,7 @@ https://janhaviprabhu.github.io/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
- <h3>📊 Some Stats</h3>
+ <h3 align="left">📊 Some Stats :</h3>
   <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Janhavi singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a>
   <br/>
   <div align="center">

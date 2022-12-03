@@ -44,7 +44,7 @@ https://janhaviprabhu.github.io/).
   <br/>
   <div align="center">
   <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
-<p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janhaviprabhu&" alt="janhavi" /></p>
+<p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janhaviprabhu" alt="janhavi" /></p>
   <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Janhaviprabhu&show_icons=true&locale=en" alt="janhavi" /></p></div>
 <div align="center">
                    

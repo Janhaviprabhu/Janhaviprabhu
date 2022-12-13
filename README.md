@@ -43,8 +43,8 @@ https://janhaviprabhu.github.io/).
   <a href="https://github.com/Janhaviprabhu/github-readme-activity-graph"><img alt="Janhavi prabhu activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a>
   <br/>
   <div align="center">
-  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
-<p><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janhaviprabhu" alt="Janhaviprabhu" /></p>
+  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janhaviprabhu&langs_count=6&show_icons=true&locale=en&layout=compact&count_private=true" alt="gucci1909" /></p>
+<p><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janhaviprabhu" alt="Janhaviprabhu" /></p>
   <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Janhaviprabhu&show_icons=true&locale=en" alt="janhavi" /></p></div>
 <div align="center">
                    

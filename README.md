@@ -1,5 +1,7 @@
-<div align="left"><h1> Hello :wave: , Fellow &lt; Developers /&gt; ,  I'm  Janhavi Prabhu </h1>
-<h4>A Full Stack Developer with
+<div align="center"><h1> Hello :wave: , Fellow &lt; Developers /&gt; ,  I'm  Janhavi Prabhu </h1>
+  <div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/97351159/224470618-cb60098e-031a-49c3-84b7-af6690bca654.png" /></div>
+
+<h4 align="center">A Full Stack Developer with
 the ability to write clean & efficient code</h4>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janhaviprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
